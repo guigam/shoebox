@@ -1,0 +1,4 @@
+//MO064-065.TXT ANA00064 TO ANA00065
+transactionsMagasinIntrant		TAR	737	nouvelle taille enregistrement : 737
+transactionsMagasinIntrant	ReferenceEntrantIntrant	RUB+		ReferenceEntrantIntrant est une nouvelle clé
+Entrant_intrant		NWL	Entrant_intrant (Reference) et transactionsMagasinIntrant (ReferenceEntrantIntrant)	Nouvelle liaison entre les fichiers Entrant_intrant (Reference) et transactionsMagasinIntrant (ReferenceEntrantIntrant)

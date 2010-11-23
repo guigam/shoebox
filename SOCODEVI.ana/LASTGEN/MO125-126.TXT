@@ -1,0 +1,4 @@
+//MO125-126.TXT ANA00125 TO ANA00126
+charge$		NFI		nouveau fichier
+charge$		FIC-	Charge	Fichier supprimé Charge
+Connexion à 'C:\Documents and Settings\Administrateur\Bureau\charge.xls'		CNX+		

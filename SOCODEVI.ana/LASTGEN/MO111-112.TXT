@@ -1,0 +1,3 @@
+//MO111-112.TXT ANA00111 TO ANA00112
+charge_transaction		TAR	2710	nouvelle taille enregistrement : 2710
+charge_transaction	copteencaisse	RUB+		copteencaisse est une nouvelle rubrique

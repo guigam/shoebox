@@ -1,0 +1,2 @@
+//MO072-073.TXT ANA00072 TO ANA00073
+Compte	Nomducompte	NNR	Nom du compte	ATTENTION : la rubrique Nom du compte a pour nouveau nom Nomducompte

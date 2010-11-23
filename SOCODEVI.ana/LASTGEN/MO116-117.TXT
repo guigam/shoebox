@@ -1,0 +1,4 @@
+//MO116-117.TXT ANA00116 TO ANA00117
+Resultatmehdi		NFI		nouveau fichier
+Informationcooperative		FIC-	ResultatmehdiProduit	Fichier supprimé ResultatmehdiProduit
+Informationcooperative		FIC-	Resultatmehdi	Fichier supprimé Resultatmehdi

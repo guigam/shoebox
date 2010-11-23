@@ -1,0 +1,2 @@
+//MO108-109.TXT ANA00108 TO ANA00109
+Compte		DEL	Compte (ID) et charge_transaction (CompteEncaisse)	Liaison supprimée entre les fichiers Compte (ID) et charge_transaction (CompteEncaisse)

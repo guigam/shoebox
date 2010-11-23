@@ -1,0 +1,2 @@
+//MO096-097.TXT ANA00096 TO ANA00097
+RemboursementDetteFournisseurIntrant	reference	CLEU*		la rubrique reference est maintenant une clé

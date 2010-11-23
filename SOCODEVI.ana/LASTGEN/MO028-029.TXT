@@ -1,0 +1,5 @@
+//MO028-029.TXT ANA00028 TO ANA00029
+RemboursementDetteFournisseurIntrant		TAR	1641	nouvelle taille enregistrement : 1641
+RemboursementDetteFournisseurIntrant	Id	RUB+		Id est une nouvelle clé
+Intrant		IDE+*		fichier avec identifiant
+Intrant		NWL	Intrant (id) et RemboursementDetteFournisseurIntrant (Id)	Nouvelle liaison entre les fichiers Intrant (id) et RemboursementDetteFournisseurIntrant (Id)

@@ -1,0 +1,4 @@
+//MO139-140.TXT ANA00139 TO ANA00140
+Marchandise_paye_produit_expedié_confirmé		TAR	3402	nouvelle taille enregistrement : 3402
+Marchandise_paye_produit_expedié_confirmé	pertepoids	CNW	Entier sur 4 octets$Chaîne	la rubrique pertepoids a pour nouveau type Entier sur 4 octets
+Marchandise_paye_produit_expedié_confirmé	pertemonnaie	CNW	Entier sur 4 octets$Chaîne	la rubrique pertemonnaie a pour nouveau type Entier sur 4 octets

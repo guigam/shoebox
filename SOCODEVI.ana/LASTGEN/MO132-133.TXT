@@ -1,0 +1,3 @@
+//MO132-133.TXT ANA00132 TO ANA00133
+DefinitionPeriode	N°	CLE-*		la rubrique N° n'est plus une clé
+DefinitionPeriode	ID	CLE-*		la rubrique ID n'est plus une clé

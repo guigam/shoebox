@@ -1,0 +1,2 @@
+//MO098-099.TXT ANA00098 TO ANA00099
+Compte	Nomducompte	CLEN*		la rubrique Nomducompte est maintenant une clé

@@ -1,0 +1,2 @@
+//MO123-124.TXT ANA00123 TO ANA00124
+Charge		NFI		nouveau fichier

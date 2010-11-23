@@ -1,0 +1,7 @@
+//MO109-110.TXT ANA00109 TO ANA00110
+debourse		TAR	975	nouvelle taille enregistrement : 975
+debourse	numCompteE	NNR	typeRederess	ATTENTION : la rubrique typeRederess a pour nouveau nom numCompteE
+debourse	numCompteE	CNW	Entier sur 4 octets$Unicode	la rubrique numCompteE a pour nouveau type Entier sur 4 octets
+Encaissement		TAR	1871	nouvelle taille enregistrement : 1871
+Encaissement	numCompteE	NNR	typeredresse	ATTENTION : la rubrique typeredresse a pour nouveau nom numCompteE
+Encaissement	numCompteE	CNW	Entier sur 4 octets$Unicode	la rubrique numCompteE a pour nouveau type Entier sur 4 octets

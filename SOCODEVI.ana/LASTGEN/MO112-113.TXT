@@ -1,0 +1,27 @@
+//MO112-113.TXT ANA00112 TO ANA00113
+Resultatmehdi		TAR	1240	nouvelle taille enregistrement : 1240
+Resultatmehdi	p1	CNW	Entier sur 4 octets$Chaîne	la rubrique p1 a pour nouveau type Entier sur 4 octets
+Resultatmehdi	p2	CNW	Entier sur 4 octets$Chaîne	la rubrique p2 a pour nouveau type Entier sur 4 octets
+Resultatmehdi	p3	CNW	Entier sur 4 octets$Chaîne	la rubrique p3 a pour nouveau type Entier sur 4 octets
+Resultatmehdi	p4	CNW	Entier sur 4 octets$Chaîne	la rubrique p4 a pour nouveau type Entier sur 4 octets
+Resultatmehdi	p5	CNW	Entier sur 4 octets$Chaîne	la rubrique p5 a pour nouveau type Entier sur 4 octets
+Resultatmehdi	p6	CNW	Entier sur 4 octets$Chaîne	la rubrique p6 a pour nouveau type Entier sur 4 octets
+Resultatmehdi	p7	CNW	Entier sur 4 octets$Chaîne	la rubrique p7 a pour nouveau type Entier sur 4 octets
+Resultatmehdi	p8	CNW	Entier sur 4 octets$Chaîne	la rubrique p8 a pour nouveau type Entier sur 4 octets
+Resultatmehdi	p9	CNW	Entier sur 4 octets$Chaîne	la rubrique p9 a pour nouveau type Entier sur 4 octets
+Resultatmehdi	p10	CNW	Entier sur 4 octets$Chaîne	la rubrique p10 a pour nouveau type Entier sur 4 octets
+Resultatmehdi	p11	CNW	Entier sur 4 octets$Chaîne	la rubrique p11 a pour nouveau type Entier sur 4 octets
+Resultatmehdi	p12	CNW	Entier sur 4 octets$Chaîne	la rubrique p12 a pour nouveau type Entier sur 4 octets
+ResultatmehdiProduit		TAR	1240	nouvelle taille enregistrement : 1240
+ResultatmehdiProduit	p1	CNW	Entier sur 4 octets$Chaîne	la rubrique p1 a pour nouveau type Entier sur 4 octets
+ResultatmehdiProduit	p2	CNW	Entier sur 4 octets$Chaîne	la rubrique p2 a pour nouveau type Entier sur 4 octets
+ResultatmehdiProduit	p3	CNW	Entier sur 4 octets$Chaîne	la rubrique p3 a pour nouveau type Entier sur 4 octets
+ResultatmehdiProduit	p4	CNW	Entier sur 4 octets$Chaîne	la rubrique p4 a pour nouveau type Entier sur 4 octets
+ResultatmehdiProduit	p5	CNW	Entier sur 4 octets$Chaîne	la rubrique p5 a pour nouveau type Entier sur 4 octets
+ResultatmehdiProduit	p6	CNW	Entier sur 4 octets$Chaîne	la rubrique p6 a pour nouveau type Entier sur 4 octets
+ResultatmehdiProduit	p7	CNW	Entier sur 4 octets$Chaîne	la rubrique p7 a pour nouveau type Entier sur 4 octets
+ResultatmehdiProduit	p8	CNW	Entier sur 4 octets$Chaîne	la rubrique p8 a pour nouveau type Entier sur 4 octets
+ResultatmehdiProduit	p9	CNW	Entier sur 4 octets$Chaîne	la rubrique p9 a pour nouveau type Entier sur 4 octets
+ResultatmehdiProduit	p10	CNW	Entier sur 4 octets$Chaîne	la rubrique p10 a pour nouveau type Entier sur 4 octets
+ResultatmehdiProduit	p11	CNW	Entier sur 4 octets$Chaîne	la rubrique p11 a pour nouveau type Entier sur 4 octets
+ResultatmehdiProduit	p12	CNW	Entier sur 4 octets$Chaîne	la rubrique p12 a pour nouveau type Entier sur 4 octets

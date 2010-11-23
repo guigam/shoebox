@@ -1,0 +1,25 @@
+[OPTIONS]
+Compiled File=Aide_SOCODEVI005.chm
+Title=
+Contents File=Aide_SOCODEVI.hhc
+Index File=Aide_SOCODEVI.hhk
+Error Log File=Aide_SOCODEVI005.err
+Display Compile Progress=Yes
+Display Compile Notes=Yes
+Full-Text Search=Yes
+Binary Index=Yes
+Auto Index=No
+Enhanced Decompilation=No
+Binary TOC=No
+Flat=Yes
+Default Window=main
+[WINDOWS]
+main="","Aide_SOCODEVI.hhc","Aide_SOCODEVI.hhk","","","","","","",0x2420,,0x3806,[10,10,470,630],,,,0x0,,,0
+
+
+[FILES]
+Nouveaute.htm
+PageNouveaute1.htm
+
+[MAP]
+#include mapid.h

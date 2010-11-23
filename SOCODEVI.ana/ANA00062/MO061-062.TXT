@@ -1,0 +1,4 @@
+//MO061-062.TXT ANA00061 TO ANA00062
+TransactionMagasin		TAR	793	nouvelle taille enregistrement : 793
+TransactionMagasin	ReferenceEntreProduit	RUB+		ReferenceEntreProduit est une nouvelle clé
+journal_magasin_entrée_stock_in		NWL	journal_magasin_entrée_stock_in (Reference) et TransactionMagasin (ReferenceEntreProduit)	Nouvelle liaison entre les fichiers journal_magasin_entrée_stock_in (Reference) et TransactionMagasin (ReferenceEntreProduit)

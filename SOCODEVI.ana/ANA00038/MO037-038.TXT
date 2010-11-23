@@ -1,0 +1,4 @@
+//MO037-038.TXT ANA00037 TO ANA00038
+debourse		TAR	980	nouvelle taille enregistrement : 980
+debourse	IDCompte	RUB+		IDCompte est une nouvelle clé
+Compte		NWL	Compte (ID) et debourse (IDCompte)	Nouvelle liaison entre les fichiers Compte (ID) et debourse (IDCompte)

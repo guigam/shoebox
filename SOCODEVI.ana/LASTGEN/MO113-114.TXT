@@ -1,0 +1,3 @@
+//MO113-114.TXT ANA00113 TO ANA00114
+Flux_entrant		TAR	3722	nouvelle taille enregistrement : 3722
+Flux_entrant	civilite	RUB+		civilite est une nouvelle rubrique

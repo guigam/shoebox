@@ -1,0 +1,3 @@
+//MO092-093.TXT ANA00092 TO ANA00093
+debourse		TAR	1436	nouvelle taille enregistrement : 1436
+debourse	Date	CNW	Date (aaaammjj)$Date et Heure (aaaammjjhhmmsslll)	la rubrique Date a pour nouveau type Date (aaaammjj)

@@ -1,0 +1,3 @@
+//MO089-090.TXT ANA00089 TO ANA00090
+transactionsMagasinIntrant		NFI		nouveau fichier
+transactionsMagasinIntrant		FRN		

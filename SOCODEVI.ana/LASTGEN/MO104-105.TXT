@@ -1,0 +1,4 @@
+//MO104-105.TXT ANA00104 TO ANA00105
+encaissementDivers		TAR	3470	nouvelle taille enregistrement : 3470
+encaissementDivers	Reference	CNW	Chaîne$Unicode	la rubrique Reference a pour nouveau type Chaîne
+encaissementDivers	compte	CNW	Chaîne$Entier sur 4 octets	la rubrique compte a pour nouveau type Chaîne

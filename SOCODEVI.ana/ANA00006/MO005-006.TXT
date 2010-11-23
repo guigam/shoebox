@@ -1,0 +1,3 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Intrant	Nom	CLEN*		la rubrique Nom est maintenant une clé
+Entrant_intrant	Fournisseur	CLEN*		la rubrique Fournisseur est maintenant une clé

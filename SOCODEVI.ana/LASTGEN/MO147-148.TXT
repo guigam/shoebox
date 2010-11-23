@@ -1,0 +1,4 @@
+//MO147-148.TXT ANA00147 TO ANA00148
+encaissementDivers		TAR	3229	nouvelle taille enregistrement : 3229
+encaissementDivers	Description	RUB+		Description est une nouvelle rubrique
+charge_transaction	Nature	RRN		

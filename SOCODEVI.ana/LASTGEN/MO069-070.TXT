@@ -1,0 +1,2 @@
+//MO069-070.TXT ANA00069 TO ANA00070
+Contrainte_Pret_Compte		MCL	1,1->0,1	

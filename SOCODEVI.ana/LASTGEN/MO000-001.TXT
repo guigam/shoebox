@@ -1,0 +1,52 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+detail_vente		NFI		nouveau fichier
+DefinitionPeriode		NFI		nouveau fichier
+debourse		NFI		nouveau fichier
+Compte		NFI		nouveau fichier
+charteProduit		NFI		nouveau fichier
+CHARTEDESCOMPTES1		NFI		nouveau fichier
+CHARTEDESCOMPTES		NFI		nouveau fichier
+ChartedeComptes		NFI		nouveau fichier
+charges		NFI		nouveau fichier
+charge_transaction		NFI		nouveau fichier
+CategCharge		NFI		nouveau fichier
+avanceClient		NFI		nouveau fichier
+avance_fournisseur		NFI		nouveau fichier
+Analyse		NFI		nouveau fichier
+Activite		NFI		nouveau fichier
+ResultatCharge		NFI		nouveau fichier
+RemboursementDetteFournisseurIntrant		NFI		nouveau fichier
+ProduitIntrant		NFI		nouveau fichier
+Produit		NFI		nouveau fichier
+Pret		NFI		nouveau fichier
+Marchandise_paye_produit_expedié_confirmé		NFI		nouveau fichier
+Magasin		NFI		nouveau fichier
+journal_magasin_entrée_stock_in		NFI		nouveau fichier
+Intrant		NFI		nouveau fichier
+flux_sortant_exportateur		NFI		nouveau fichier
+Flux_entrant		NFI		nouveau fichier
+Entrant_intrant		NFI		nouveau fichier
+encaissementDivers		NFI		nouveau fichier
+Encaissement		NFI		nouveau fichier
+Dettes		NFI		nouveau fichier
+DetteClient		NFI		nouveau fichier
+StockMagasinMois		NFI		nouveau fichier
+StockDepartProduitMagasin		NFI		nouveau fichier
+stock_produit		NFI		nouveau fichier
+Sortis_intrant		NFI		nouveau fichier
+saisieStockpouresultat		NFI		nouveau fichier
+resultatGenerale		NFI		nouveau fichier
+Magasin		NWL	Magasin (N°) et stock_produit (magasin)	Nouvelle liaison entre les fichiers Magasin (N°) et stock_produit (magasin)
+Compte		NWL	Compte (ID) et RemboursementDetteFournisseurIntrant (compteEncaisse)	Nouvelle liaison entre les fichiers Compte (ID) et RemboursementDetteFournisseurIntrant (compteEncaisse)
+Flux_entrant		NWL	Flux_entrant (ID) et Pret (Fournissuer)	Nouvelle liaison entre les fichiers Flux_entrant (ID) et Pret (Fournissuer)
+Compte		NWL	Compte (ID) et encaissementDivers (compteEncaisse)	Nouvelle liaison entre les fichiers Compte (ID) et encaissementDivers (compteEncaisse)
+charges		NWL	charges (ID) et encaissementDivers (compte)	Nouvelle liaison entre les fichiers charges (ID) et encaissementDivers (compte)
+DefinitionPeriode		NWL	DefinitionPeriode (N°) et Encaissement (periode)	Nouvelle liaison entre les fichiers DefinitionPeriode (N°) et Encaissement (periode)
+DefinitionPeriode		NWL	DefinitionPeriode (N°) et debourse (periode)	Nouvelle liaison entre les fichiers DefinitionPeriode (N°) et debourse (periode)
+Compte		NWL	Compte (ID) et debourse (compte)	Nouvelle liaison entre les fichiers Compte (ID) et debourse (compte)
+CategCharge		NWL	CategCharge (Catégorie) et charges (Categorie)	Nouvelle liaison entre les fichiers CategCharge (Catégorie) et charges (Categorie)
+charges		NWL	charges (ID) et charge_transaction (charge)	Nouvelle liaison entre les fichiers charges (ID) et charge_transaction (charge)
+CategCharge		NWL	CategCharge (Catégorie) et charge_transaction (type de charge)	Nouvelle liaison entre les fichiers CategCharge (Catégorie) et charge_transaction (type de charge)
+charges		NWL	charges (ID) et charge_transaction (Compte)	Nouvelle liaison entre les fichiers charges (ID) et charge_transaction (Compte)
+Compte		NWL	Compte (ID) et charge_transaction (CompteEncaisse)	Nouvelle liaison entre les fichiers Compte (ID) et charge_transaction (CompteEncaisse)
+Connexion à 'C:\Mes Projets\SOCODEVI\Exe\SOCODEVI-12-10-2009_be.accdb'		CNX+		

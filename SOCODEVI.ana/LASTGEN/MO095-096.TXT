@@ -1,0 +1,4 @@
+//MO095-096.TXT ANA00095 TO ANA00096
+Encaissement		TAR	2379	nouvelle taille enregistrement : 2379
+Encaissement	compte	CNW	Chaîne$Entier sur 4 octets	la rubrique compte a pour nouveau type Chaîne
+Encaissement	compte	RRN		

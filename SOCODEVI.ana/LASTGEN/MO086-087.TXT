@@ -1,0 +1,3 @@
+//MO086-087.TXT ANA00086 TO ANA00087
+avanceClient		TAR	2661	nouvelle taille enregistrement : 2661
+avanceClient	type	RUB+		type est une nouvelle rubrique

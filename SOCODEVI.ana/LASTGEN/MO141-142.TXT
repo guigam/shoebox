@@ -1,0 +1,3 @@
+//MO141-142.TXT ANA00141 TO ANA00142
+Marchandise_paye_produit_expedié_confirmé		TAR	3411	nouvelle taille enregistrement : 3411
+Marchandise_paye_produit_expedié_confirmé	totalconfirmer	RUB+		totalconfirmer est une nouvelle rubrique

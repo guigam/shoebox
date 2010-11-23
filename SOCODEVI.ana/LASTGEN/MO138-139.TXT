@@ -1,0 +1,4 @@
+//MO138-139.TXT ANA00138 TO ANA00139
+Marchandise_paye_produit_expedié_confirmé		TAR	3496	nouvelle taille enregistrement : 3496
+Marchandise_paye_produit_expedié_confirmé	pertepoids	RUB+		pertepoids est une nouvelle rubrique
+Marchandise_paye_produit_expedié_confirmé	pertemonnaie	RUB+		pertemonnaie est une nouvelle rubrique

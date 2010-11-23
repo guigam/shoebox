@@ -1,0 +1,3 @@
+//MO081-082.TXT ANA00081 TO ANA00082
+debourse		TAR	1435	nouvelle taille enregistrement : 1435
+debourse	cc	RUB+		cc est une nouvelle rubrique

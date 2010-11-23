@@ -1,0 +1,2 @@
+//MO073-074.TXT ANA00073 TO ANA00074
+RemboursementDetteFournisseurde_produit		NFI		nouveau fichier

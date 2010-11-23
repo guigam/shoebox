@@ -1,0 +1,6 @@
+//MO027-028.TXT ANA00027 TO ANA00028
+flux_sortant_exportateur		IDE+*		fichier avec identifiant
+DetteClient		TAR	1637	nouvelle taille enregistrement : 1637
+DetteClient	Id_flux	RUB+		Id_flux est une nouvelle clé
+flux_sortant_exportateur		NWL	flux_sortant_exportateur (N°) et avanceClient (N°)	Nouvelle liaison entre les fichiers flux_sortant_exportateur (N°) et avanceClient (N°)
+flux_sortant_exportateur		NWL	flux_sortant_exportateur (N°) et DetteClient (Id_flux)	Nouvelle liaison entre les fichiers flux_sortant_exportateur (N°) et DetteClient (Id_flux)

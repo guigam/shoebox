@@ -1,0 +1,4 @@
+//MO080-081.TXT ANA00080 TO ANA00081
+Partsociale		TAR	1264	nouvelle taille enregistrement : 1264
+Partsociale	dateentre	RUB+		dateentre est une nouvelle rubrique
+Flux_entrant	PaiementPartSoc	RRN		

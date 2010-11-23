@@ -1,0 +1,4 @@
+//MO032-033.TXT ANA00032 TO ANA00033
+Sortis_intrant		TAR	3279	nouvelle taille enregistrement : 3279
+Sortis_intrant	IdrodIntrant	RUB+		IdrodIntrant est une nouvelle clé
+ProduitIntrant		NWL	ProduitIntrant (N°) et Sortis_intrant (IdrodIntrant)	Nouvelle liaison entre les fichiers ProduitIntrant (N°) et Sortis_intrant (IdrodIntrant)

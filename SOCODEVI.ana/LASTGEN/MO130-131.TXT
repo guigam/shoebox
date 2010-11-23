@@ -1,0 +1,2 @@
+//MO130-131.TXT ANA00130 TO ANA00131
+Charge	ID	CLEU*		la rubrique ID est maintenant une clé

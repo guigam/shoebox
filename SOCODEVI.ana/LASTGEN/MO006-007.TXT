@@ -1,0 +1,2 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+StockMagasinMois	OptimCleComp_Mois__magas	RUB+		OptimCleComp_Mois__magas est une nouvelle clé

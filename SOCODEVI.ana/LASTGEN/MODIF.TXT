@@ -1,0 +1,29 @@
+//MO068-069.TXT ANA00068 TO ANA00069
+detail_vente		TAR	699	nouvelle taille enregistrement : 699
+debourse		TAR	980	nouvelle taille enregistrement : 980
+charge_transaction		TAR	2719	nouvelle taille enregistrement : 2719
+avanceClient		TAR	2665	nouvelle taille enregistrement : 2665
+avance_fournisseur		TAR	2643	nouvelle taille enregistrement : 2643
+RemboursementDetteFournisseurIntrant		TAR	1641	nouvelle taille enregistrement : 1641
+Pret		TAR	1631	nouvelle taille enregistrement : 1631
+Marchandise_paye_produit_expedié_confirmé		TAR	2907	nouvelle taille enregistrement : 2907
+journal_magasin_entrée_stock_in		TAR	2676	nouvelle taille enregistrement : 2676
+Intrant		TAR	2127	nouvelle taille enregistrement : 2127
+flux_sortant_exportateur		TAR	2133	nouvelle taille enregistrement : 2133
+Flux_entrant		TAR	3722	nouvelle taille enregistrement : 3722
+Entrant_intrant		TAR	2261	nouvelle taille enregistrement : 2261
+encaissementDivers		TAR	3229	nouvelle taille enregistrement : 3229
+Encaissement		TAR	1875	nouvelle taille enregistrement : 1875
+Dettes		TAR	3177	nouvelle taille enregistrement : 3177
+DetteClient		TAR	1637	nouvelle taille enregistrement : 1637
+TransactionJour		TAR	1758	nouvelle taille enregistrement : 1758
+TransactionMagasin		TAR	895	nouvelle taille enregistrement : 895
+StockMagasinMois		TAR	752	nouvelle taille enregistrement : 752
+Sortis_intrant		TAR	3279	nouvelle taille enregistrement : 3279
+ResultatmehdiProduit		TAR	1139	nouvelle taille enregistrement : 1139
+transactionsMagasinIntrant		TAR	840	nouvelle taille enregistrement : 840
+Partsociale		TAR	1268	nouvelle taille enregistrement : 1268
+RemboursementDetteFournisseurde_produit		TAR	1629	nouvelle taille enregistrement : 1629
+Resultatmehdi		TAR	1240	nouvelle taille enregistrement : 1240
+Resultatmehdi		FIC-	ActiviteCharge	Fichier supprimé ActiviteCharge
+Resultatmehdi		FIC-	Activite	Fichier supprimé Activite

@@ -1,0 +1,3 @@
+//MO145-146.TXT ANA00145 TO ANA00146
+Marchandise_paye_produit_expedié_confirmé		TAR	2950	nouvelle taille enregistrement : 2950
+Marchandise_paye_produit_expedié_confirmé	gradeC	CNW	Chaîne$Entier sur 4 octets	la rubrique gradeC a pour nouveau type Chaîne

@@ -1,0 +1,3 @@
+//MO076-077.TXT ANA00076 TO ANA00077
+encaissementDivers		TAR	3665	nouvelle taille enregistrement : 3665
+encaissementDivers	paiement	RUB+		paiement est une nouvelle rubrique

@@ -1,0 +1,2 @@
+//MO091-092.TXT ANA00091 TO ANA00092
+DefinitionPeriode	valeur	CLEN*		la rubrique valeur est maintenant une clé

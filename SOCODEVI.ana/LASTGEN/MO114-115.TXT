@@ -1,0 +1,7 @@
+//MO114-115.TXT ANA00114 TO ANA00115
+Charge		NFI		nouveau fichier
+CategCharge		NFI		nouveau fichier
+Informationcooperative		FIC-	CategCharge	Fichier supprimé CategCharge
+Informationcooperative		FIC-	Resultatmehdi	Fichier supprimé Resultatmehdi
+Informationcooperative		FIC-	charges	Fichier supprimé charges
+Informationcooperative		FIC-	ResultatmehdiProduit	Fichier supprimé ResultatmehdiProduit

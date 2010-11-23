@@ -1,0 +1,3 @@
+//MO142-143.TXT ANA00142 TO ANA00143
+Marchandise_paye_produit_expedié_confirmé	pu2	NNR	puConfirme	ATTENTION : la rubrique puConfirme a pour nouveau nom pu2
+Marchandise_paye_produit_expedié_confirmé	total2	NNR	totalconfirmer	ATTENTION : la rubrique totalconfirmer a pour nouveau nom total2

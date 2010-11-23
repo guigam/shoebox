@@ -1,0 +1,3 @@
+//MO110-111.TXT ANA00110 TO ANA00111
+Dettes		TAR	3169	nouvelle taille enregistrement : 3169
+Dettes	numCompteE	RUB+		numCompteE est une nouvelle rubrique

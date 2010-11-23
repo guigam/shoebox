@@ -1,0 +1,4 @@
+//MO030-031.TXT ANA00030 TO ANA00031
+Marchandise_paye_produit_expedié_confirmé		TAR	2907	nouvelle taille enregistrement : 2907
+Marchandise_paye_produit_expedié_confirmé	IdProd	RUB+		IdProd est une nouvelle clé
+Produit		NWL	Produit (N°) et Marchandise_paye_produit_expedié_confirmé (IdProd)	Nouvelle liaison entre les fichiers Produit (N°) et Marchandise_paye_produit_expedié_confirmé (IdProd)

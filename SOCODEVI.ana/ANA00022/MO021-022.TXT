@@ -1,0 +1,3 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+Marchandise_paye_produit_expedié_confirmé		TAR	2950	nouvelle taille enregistrement : 2950
+Marchandise_paye_produit_expedié_confirmé	total2	CNW	Chaîne$Entier sur 4 octets	la rubrique total2 a pour nouveau type Chaîne

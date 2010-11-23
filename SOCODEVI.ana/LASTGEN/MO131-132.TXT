@@ -1,0 +1,3 @@
+//MO131-132.TXT ANA00131 TO ANA00132
+DefinitionPeriode	N°	CLEU*		la rubrique N° est maintenant une clé
+DefinitionPeriode	ID	CLEN*		la rubrique ID est maintenant une clé

@@ -1,0 +1,3 @@
+//MO078-079.TXT ANA00078 TO ANA00079
+encaissementDivers		TAR	3679	nouvelle taille enregistrement : 3679
+encaissementDivers	montantPayé	RUB+		montantPayé est une nouvelle rubrique

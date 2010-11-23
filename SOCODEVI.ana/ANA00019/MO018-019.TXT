@@ -1,0 +1,2 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+ResultatmehdiProduit	Reference	CLEN*		la rubrique Reference est maintenant une clé

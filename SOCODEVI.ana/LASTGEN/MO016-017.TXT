@@ -1,0 +1,3 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+charge_transaction	Compte	CLEN*		la rubrique Compte est maintenant une clé
+Charge	reference	CLEN*		la rubrique reference est maintenant une clé

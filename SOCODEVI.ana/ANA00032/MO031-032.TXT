@@ -1,0 +1,4 @@
+//MO031-032.TXT ANA00031 TO ANA00032
+Entrant_intrant		TAR	2261	nouvelle taille enregistrement : 2261
+Entrant_intrant	IdProduitIntrant	RUB+		IdProduitIntrant est une nouvelle clé
+ProduitIntrant		NWL	ProduitIntrant (N°) et Entrant_intrant (IdProduitIntrant)	Nouvelle liaison entre les fichiers ProduitIntrant (N°) et Entrant_intrant (IdProduitIntrant)

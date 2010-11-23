@@ -1,0 +1,4 @@
+//MO084-085.TXT ANA00084 TO ANA00085
+RemboursementDetteFournisseurde_produit		TAR	1625	nouvelle taille enregistrement : 1625
+RemboursementDetteFournisseurde_produit	montantPayé	CNW	Entier sur 4 octets$Monétaire	la rubrique montantPayé a pour nouveau type Entier sur 4 octets
+RemboursementDetteFournisseurde_produit	Montant	CNW	Entier sur 4 octets$Monétaire	la rubrique Montant a pour nouveau type Entier sur 4 octets

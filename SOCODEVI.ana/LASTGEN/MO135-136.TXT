@@ -1,0 +1,3 @@
+//MO135-136.TXT ANA00135 TO ANA00136
+charges		NFI		nouveau fichier
+Resultatmehdi		FIC-	Charge	Fichier supprimé Charge

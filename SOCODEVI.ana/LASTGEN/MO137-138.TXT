@@ -1,0 +1,4 @@
+//MO137-138.TXT ANA00137 TO ANA00138
+Charge		NFI		nouveau fichier
+Resultatmehdi		FIC-	Charge	Fichier supprimé Charge
+Charge		FRN		

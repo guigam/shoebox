@@ -1,0 +1,3 @@
+//MO144-145.TXT ANA00144 TO ANA00145
+Marchandise_paye_produit_expedié_confirmé		TAR	2903	nouvelle taille enregistrement : 2903
+Marchandise_paye_produit_expedié_confirmé	gradeC	CNW	Entier sur 4 octets$Unicode	la rubrique gradeC a pour nouveau type Entier sur 4 octets

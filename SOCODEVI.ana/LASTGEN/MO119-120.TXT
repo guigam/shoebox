@@ -1,0 +1,2 @@
+//MO119-120.TXT ANA00119 TO ANA00120
+Connexion HyperFileSQL Classic		CNX+		

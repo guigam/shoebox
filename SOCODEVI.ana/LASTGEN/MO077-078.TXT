@@ -1,0 +1,3 @@
+//MO077-078.TXT ANA00077 TO ANA00078
+encaissementDivers		TAR	3669	nouvelle taille enregistrement : 3669
+encaissementDivers	etat	RUB+		etat est une nouvelle rubrique

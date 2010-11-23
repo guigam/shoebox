@@ -1,0 +1,3 @@
+//MO106-107.TXT ANA00106 TO ANA00107
+encaissementDivers		TAR	2963	nouvelle taille enregistrement : 2963
+encaissementDivers	DateEncaissement	CNW	Date (aaaammjj)$Date et Heure (aaaammjjhhmmsslll)	la rubrique DateEncaissement a pour nouveau type Date (aaaammjj)

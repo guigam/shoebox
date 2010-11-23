@@ -1,0 +1,2 @@
+//MO023-024.TXT ANA00023 TO ANA00024
+Marchandise_paye_produit_expedié_confirmé	periode	CLEN*		la rubrique periode est maintenant une clé

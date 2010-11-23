@@ -1,0 +1,3 @@
+//MO140-141.TXT ANA00140 TO ANA00141
+Marchandise_paye_produit_expedié_confirmé		TAR	3406	nouvelle taille enregistrement : 3406
+Marchandise_paye_produit_expedié_confirmé	puConfirme	RUB+		puConfirme est une nouvelle rubrique

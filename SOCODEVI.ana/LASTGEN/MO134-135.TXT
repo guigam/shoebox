@@ -1,0 +1,3 @@
+//MO134-135.TXT ANA00134 TO ANA00135
+Resultatmehdi		NFI		nouveau fichier
+Resultatmehdi		FIC-	Resultatmehdi	Fichier supprimé Resultatmehdi

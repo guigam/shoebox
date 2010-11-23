@@ -1,0 +1,3 @@
+//MO024-025.TXT ANA00024 TO ANA00025
+Marchandise_paye_produit_expedié_confirmé		NWL	Marchandise_paye_produit_expedié_confirmé (reference) et Encaissement (Reference)	Nouvelle liaison entre les fichiers Marchandise_paye_produit_expedié_confirmé (reference) et Encaissement (Reference)
+journal_magasin_entrée_stock_in		NWL	journal_magasin_entrée_stock_in (Reference) et debourse (Reference)	Nouvelle liaison entre les fichiers journal_magasin_entrée_stock_in (Reference) et debourse (Reference)

@@ -1,0 +1,2 @@
+//MO087-088.TXT ANA00087 TO ANA00088
+RemboursementDetteFournisseurde_produit	reference	CLEN*		la rubrique reference est maintenant une clé

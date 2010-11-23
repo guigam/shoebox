@@ -1,0 +1,2 @@
+//MO088-089.TXT ANA00088 TO ANA00089
+Dettes	ref	CLEN*		la rubrique ref est maintenant une clé

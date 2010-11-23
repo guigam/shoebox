@@ -1,0 +1,4 @@
+//MO043-044.TXT ANA00043 TO ANA00044
+charge_transaction		TAR	2715	nouvelle taille enregistrement : 2715
+charge_transaction	IDCompte	RUB+		IDCompte est une nouvelle clé
+Compte		NWL	Compte (ID) et charge_transaction (IDCompte)	Nouvelle liaison entre les fichiers Compte (ID) et charge_transaction (IDCompte)

@@ -1,0 +1,3 @@
+//MO146-147.TXT ANA00146 TO ANA00147
+Marchandise_paye_produit_expedié_confirmé		TAR	2903	nouvelle taille enregistrement : 2903
+Marchandise_paye_produit_expedié_confirmé	gradeC	CNW	Entier non signé sur 4 octets$Chaîne	la rubrique gradeC a pour nouveau type Entier non signé sur 4 octets

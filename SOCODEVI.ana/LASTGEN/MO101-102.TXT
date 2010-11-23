@@ -1,0 +1,6 @@
+//MO101-102.TXT ANA00101 TO ANA00102
+Magasin		DEL	Magasin (N°) et stock_produit (magasin)	Liaison supprimée entre les fichiers Magasin (N°) et stock_produit (magasin)
+Compte		DEL	Compte (ID) et RemboursementDetteFournisseurIntrant (compteEncaisse)	Liaison supprimée entre les fichiers Compte (ID) et RemboursementDetteFournisseurIntrant (compteEncaisse)
+Flux_entrant		DEL	Flux_entrant (ID) et Pret (Fournissuer)	Liaison supprimée entre les fichiers Flux_entrant (ID) et Pret (Fournissuer)
+Compte		DEL	Compte (ID) et encaissementDivers (compteEncaisse)	Liaison supprimée entre les fichiers Compte (ID) et encaissementDivers (compteEncaisse)
+CategCharge		DEL	CategCharge (Catégorie) et charge_transaction (type de charge)	Liaison supprimée entre les fichiers CategCharge (Catégorie) et charge_transaction (type de charge)

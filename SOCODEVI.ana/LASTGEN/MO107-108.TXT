@@ -1,0 +1,4 @@
+//MO107-108.TXT ANA00107 TO ANA00108
+encaissementDivers		TAR	2972	nouvelle taille enregistrement : 2972
+encaissementDivers	maDate	RUB+		maDate est une nouvelle rubrique
+encaissementDivers	DateEncaissement	RRM		

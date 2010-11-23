@@ -1,0 +1,6 @@
+//MO121-122.TXT ANA00121 TO ANA00122
+ResultatmehdiProduit	IDResultatmehdi	CLEU*		la rubrique IDResultatmehdi est maintenant une clé
+Resultatmehdi	IDResultatmehdi	CLEU*		la rubrique IDResultatmehdi est maintenant une clé
+Charge		TAR	1301	nouvelle taille enregistrement : 1301
+Charge		IDE+*		fichier avec identifiant
+Charge	ID	RUB+		ID est une nouvelle clé

@@ -1,0 +1,4 @@
+//MO094-095.TXT ANA00094 TO ANA00095
+debourse		TAR	1483	nouvelle taille enregistrement : 1483
+debourse	compte	CNW	Chaîne$Entier sur 4 octets	la rubrique compte a pour nouveau type Chaîne
+Compte		DEL	Compte (ID) et debourse (compte)	Liaison supprimée entre les fichiers Compte (ID) et debourse (compte)

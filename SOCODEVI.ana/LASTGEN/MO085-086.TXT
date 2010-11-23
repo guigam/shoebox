@@ -1,0 +1,3 @@
+//MO085-086.TXT ANA00085 TO ANA00086
+Magasin		TAR	1038	nouvelle taille enregistrement : 1038
+Magasin	ajouter	RUB+		ajouter est une nouvelle rubrique

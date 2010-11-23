@@ -1,0 +1,2 @@
+//MO143-144.TXT ANA00143 TO ANA00144
+Marchandise_paye_produit_expedié_confirmé	gradeC	NNR	grade(confirmé)	ATTENTION : la rubrique grade(confirmé) a pour nouveau nom gradeC

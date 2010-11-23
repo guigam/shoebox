@@ -1,0 +1,3 @@
+//MO115-116.TXT ANA00115 TO ANA00116
+ResultatmehdiProduit		NFI		nouveau fichier
+Resultatmehdi		NFI		nouveau fichier

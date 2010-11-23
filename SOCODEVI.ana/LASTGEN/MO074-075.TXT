@@ -1,0 +1,2 @@
+//MO074-075.TXT ANA00074 TO ANA00075
+RemboursementDetteFournisseurde_produit	fournisseur	NNR	Intrant	ATTENTION : la rubrique Intrant a pour nouveau nom fournisseur

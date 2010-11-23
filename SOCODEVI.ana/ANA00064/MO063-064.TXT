@@ -1,0 +1,4 @@
+//MO063-064.TXT ANA00063 TO ANA00064
+TransactionMagasin		TAR	895	nouvelle taille enregistrement : 895
+TransactionMagasin	ReferenceSortieProduit	RUB+		ReferenceSortieProduit est une nouvelle clé
+Marchandise_paye_produit_expedié_confirmé		NWL	Marchandise_paye_produit_expedié_confirmé (reference) et TransactionMagasin (ReferenceSortieProduit)	Nouvelle liaison entre les fichiers Marchandise_paye_produit_expedié_confirmé (reference) et TransactionMagasin (ReferenceSortieProduit)

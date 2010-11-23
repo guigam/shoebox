@@ -1,0 +1,3 @@
+//MO071-072.TXT ANA00071 TO ANA00072
+Compte		TAR	1103	nouvelle taille enregistrement : 1103
+Compte	typeCompte	RUB+		typeCompte est une nouvelle rubrique

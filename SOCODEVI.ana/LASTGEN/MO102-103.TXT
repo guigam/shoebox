@@ -1,0 +1,3 @@
+//MO102-103.TXT ANA00102 TO ANA00103
+Flux_entrant		TAR	3718	nouvelle taille enregistrement : 3718
+Flux_entrant	ID	CNW	Chaîne$Identifiant automatique (4 octets)	la rubrique ID a pour nouveau type Chaîne

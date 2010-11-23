@@ -1,0 +1,2 @@
+//MO099-100.TXT ANA00099 TO ANA00100
+encaissementDivers	Reference	CLEN*		la rubrique Reference est maintenant une clé

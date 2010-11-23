@@ -1,0 +1,4 @@
+//MO124-125.TXT ANA00124 TO ANA00125
+Charge		TAR	1301	nouvelle taille enregistrement : 1301
+Charge		IDE+*		fichier avec identifiant
+Charge	ID	RUB+		ID est une nouvelle clé
