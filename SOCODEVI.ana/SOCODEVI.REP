@@ -161,3 +161,6 @@ LOCALIZATION=19D08C2D057445D08B4B2E77C2E71AA5	Utilisateur	C:\Documents and Setti
 LOCALIZATION=A2B1DBF4B1A84135B02AE1B6DB1D75D5	Pret	C:\Documents and Settings\Administrateur\Bureau\socodevi_anc\Exe\Pret.FIC
 LOCALIZATION=201524192592463CA6EDFFF6C723B794	encaissementDivers	C:\Documents and Settings\Administrateur\Bureau\socodevi_anc\Exe\encaissementDivers.FIC
 LOCALIZATION=F424EC3E43674C08887EDDFBE966BDE4	Dettes	C:\Documents and Settings\Administrateur\Bureau\socodevi_anc\Exe\Dettes.FIC
+LOCALIZATION=19D08C2D057445D08B4B2E77C2E71AA5	Utilisateur	\\VBOXSVR\partage\socodevi_anc\Exe\Utilisateur.FIC
+LOCALIZATION=076908B2E71B4719B75EABF5E4CAF82B	Encaissement	\\VBOXSVR\partage\socodevi_anc\Exe\Encaissement.FIC
+LOCALIZATION=FF5A5D6C6E5245E3B86CB66298A5B596	Compte	\\VBOXSVR\partage\socodevi_anc\Exe\Compte.FIC

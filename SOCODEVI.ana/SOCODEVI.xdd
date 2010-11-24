@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
-<ANALYSE GenNum="70" VersionStructure="1">
+<ANALYSE GenNum="71" VersionStructure="1">
   <CONNEXION Nom="MaConnexion" Type="1">
     <SOURCE>C:\Documents and Settings\Administrateur\Bureau\charge.xls</SOURCE>
     <USER></USER>
@@ -254,11 +254,11 @@
       <INFOS_ETENDUES></INFOS_ETENDUES>
     </RUBRIQUE>
     <RUBRIQUE Nom="Numero de compte">
-      <TYPE>5</TYPE>
+      <TYPE>2</TYPE>
       <TYPE_CLE>2</TYPE_CLE>
       <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>4</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <TAILLE>50</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
       <INFOS_ETENDUES></INFOS_ETENDUES>
     </RUBRIQUE>
     <RUBRIQUE Nom="ID">
