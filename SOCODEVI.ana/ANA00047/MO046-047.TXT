@@ -1,6 +1,0 @@
-//MO046-047.TXT ANA00046 TO ANA00047
-avanceClient		TAR	2665	nouvelle taille enregistrement : 2665
-flux_sortant_exportateur		NWL	flux_sortant_exportateur (N°) et avanceClient (N°)	Nouvelle liaison entre les fichiers flux_sortant_exportateur (N°) et avanceClient (N°)
-Compte		NWL	Compte (ID) et avanceClient (IDcompte)	Nouvelle liaison entre les fichiers Compte (ID) et avanceClient (IDcompte)
-flux_sortant_exportateur		DEL	flux_sortant_exportateur (N°) et avanceClient (N°)	Liaison supprimée entre les fichiers flux_sortant_exportateur (N°) et avanceClient (N°)
-Compte		DEL	Compte (ID) et avanceClient (IDcompte)	Liaison supprimée entre les fichiers Compte (ID) et avanceClient (IDcompte)

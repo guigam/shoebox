@@ -1,4 +1,0 @@
-//MO039-040.TXT ANA00039 TO ANA00040
-Pret		TAR	1631	nouvelle taille enregistrement : 1631
-Pret	IDcompte	RUB+		IDcompte est une nouvelle clé
-Compte		NWL	Compte (ID) et Pret (IDcompte)	Nouvelle liaison entre les fichiers Compte (ID) et Pret (IDcompte)

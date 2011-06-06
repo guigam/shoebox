@@ -1,2 +1,0 @@
-//MO011-012.TXT ANA00011 TO ANA00012
-Flux_entrant	Nom de l'Entité	CLEN*		la rubrique Nom de l'Entité est maintenant une clé

@@ -1,2 +1,0 @@
-//MO001-002.TXT ANA00001 TO ANA00002
-journal_magasin_entrée_stock_in	Entité	CLEN*		la rubrique Entité est maintenant une clé

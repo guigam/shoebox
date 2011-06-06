@@ -1,4 +1,0 @@
-//MO040-041.TXT ANA00040 TO ANA00041
-avanceClient		TAR	2665	nouvelle taille enregistrement : 2665
-avanceClient	IDcompte	RUB+		IDcompte est une nouvelle clé
-Compte		NWL	Compte (ID) et avanceClient (IDcompte)	Nouvelle liaison entre les fichiers Compte (ID) et avanceClient (IDcompte)

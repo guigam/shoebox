@@ -1,4 +1,0 @@
-//MO065-066.TXT ANA00065 TO ANA00066
-transactionsMagasinIntrant		TAR	840	nouvelle taille enregistrement : 840
-transactionsMagasinIntrant	ReferenceSortisIntrant	RUB+		ReferenceSortisIntrant est une nouvelle clé
-Sortis_intrant		NWL	Sortis_intrant (Reference) et transactionsMagasinIntrant (ReferenceSortisIntrant)	Nouvelle liaison entre les fichiers Sortis_intrant (Reference) et transactionsMagasinIntrant (ReferenceSortisIntrant)

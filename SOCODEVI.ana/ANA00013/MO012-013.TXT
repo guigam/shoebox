@@ -1,2 +1,0 @@
-//MO012-013.TXT ANA00012 TO ANA00013
-debourse	OptimCleComp_etat_compt_cc_DATE	RUB+		OptimCleComp_etat_compt_cc_DATE est une nouvelle clé

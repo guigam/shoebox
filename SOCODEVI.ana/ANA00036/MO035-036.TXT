@@ -1,2 +1,0 @@
-//MO035-036.TXT ANA00035 TO ANA00036
-Magasin		DEL	Magasin (N°) et detail_vente (IdMag)	Liaison supprimée entre les fichiers Magasin (N°) et detail_vente (IdMag)

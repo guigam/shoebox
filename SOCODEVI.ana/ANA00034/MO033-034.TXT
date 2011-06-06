@@ -1,4 +1,0 @@
-//MO033-034.TXT ANA00033 TO ANA00034
-detail_vente		TAR	695	nouvelle taille enregistrement : 695
-detail_vente	Idrod	RUB+		Idrod est une nouvelle clé
-Produit		NWL	Produit (N°) et detail_vente (Idrod)	Nouvelle liaison entre les fichiers Produit (N°) et detail_vente (Idrod)

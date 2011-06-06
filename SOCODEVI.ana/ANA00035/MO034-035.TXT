@@ -1,4 +1,0 @@
-//MO034-035.TXT ANA00034 TO ANA00035
-detail_vente		TAR	699	nouvelle taille enregistrement : 699
-detail_vente	IdMag	RUB+		IdMag est une nouvelle clé
-Magasin		NWL	Magasin (N°) et detail_vente (IdMag)	Nouvelle liaison entre les fichiers Magasin (N°) et detail_vente (IdMag)

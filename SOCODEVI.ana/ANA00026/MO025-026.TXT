@@ -1,7 +1,0 @@
-//MO025-026.TXT ANA00025 TO ANA00026
-Dettes		TAR	3173	nouvelle taille enregistrement : 3173
-Dettes	ID	RUB+		ID est une nouvelle clé
-RemboursementDetteFournisseurde_produit		TAR	1629	nouvelle taille enregistrement : 1629
-RemboursementDetteFournisseurde_produit	ID	RUB+		ID est une nouvelle clé
-Flux_entrant		NWL	Flux_entrant (ID) et RemboursementDetteFournisseurde_produit (ID)	Nouvelle liaison entre les fichiers Flux_entrant (ID) et RemboursementDetteFournisseurde_produit (ID)
-Flux_entrant		NWL	Flux_entrant (ID) et Dettes (ID)	Nouvelle liaison entre les fichiers Flux_entrant (ID) et Dettes (ID)

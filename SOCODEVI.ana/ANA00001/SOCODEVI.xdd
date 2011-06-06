@@ -72,6 +72,22 @@
       <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
       <INFOS_ETENDUES></INFOS_ETENDUES>
     </RUBRIQUE>
+    <RUBRIQUE Nom="Idrod">
+      <TYPE>5</TYPE>
+      <TYPE_CLE>2</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="IdMag">
+      <TYPE>5</TYPE>
+      <TYPE_CLE>2</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
   </FICHIER>
   <FICHIER Nom="DefinitionPeriode" Abreviation="" NomPhysique="DefinitionPeriode" FicNullSupporte="0">
     <INFOS_ETENDUES></INFOS_ETENDUES>
@@ -214,6 +230,18 @@
       <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
       <INFOS_ETENDUES></INFOS_ETENDUES>
     </RUBRIQUE>
+    <RUBRIQUE Nom="OptimCleComp_etat_compt_cc_DATE">
+      <TYPE_CLE>2</TYPE_CLE>
+      <COMPOSEE><COMPOSANTE Nom="etat"><SENS_PARCOURS>0</SENS_PARCOURS></COMPOSANTE><COMPOSANTE Nom="compte"><SENS_PARCOURS>0</SENS_PARCOURS></COMPOSANTE><COMPOSANTE Nom="cc"><SENS_PARCOURS>0</SENS_PARCOURS></COMPOSANTE><COMPOSANTE Nom="Date"><SENS_PARCOURS>0</SENS_PARCOURS></COMPOSANTE></COMPOSEE>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="IDCompte">
+      <TYPE>5</TYPE>
+      <TYPE_CLE>2</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
   </FICHIER>
   <FICHIER Nom="Compte" Abreviation="" NomPhysique="Compte" FicNullSupporte="0">
     <INFOS_ETENDUES></INFOS_ETENDUES>
@@ -226,11 +254,11 @@
       <INFOS_ETENDUES></INFOS_ETENDUES>
     </RUBRIQUE>
     <RUBRIQUE Nom="Numero de compte">
-      <TYPE>5</TYPE>
+      <TYPE>2</TYPE>
       <TYPE_CLE>2</TYPE_CLE>
       <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>4</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <TAILLE>50</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
       <INFOS_ETENDUES></INFOS_ETENDUES>
     </RUBRIQUE>
     <RUBRIQUE Nom="ID">
@@ -271,79 +299,6 @@
       <SENS_PARCOURS>0</SENS_PARCOURS>
       <TAILLE>1</TAILLE>
       <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-  </FICHIER>
-  <FICHIER Nom="charteProduit" Abreviation="" NomPhysique="charteProduit" FicNullSupporte="0">
-    <INFOS_ETENDUES></INFOS_ETENDUES>
-    <RUBRIQUE Nom="reference">
-      <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>255</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="Valeur">
-      <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>255</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="Periode">
-      <TYPE>5</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>4</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="Libelle">
-      <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>255</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-  </FICHIER>
-  <FICHIER Nom="CHARTEDESCOMPTES1" Abreviation="" NomPhysique="CHARTEDESCOMPTES1" FicNullSupporte="0">
-    <INFOS_ETENDUES></INFOS_ETENDUES>
-    <RUBRIQUE Nom="Champ2">
-      <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>255</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="num">
-      <TYPE>7</TYPE>
-      <TYPE_CLE>2</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>8</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-  </FICHIER>
-  <FICHIER Nom="CHARTEDESCOMPTES" Abreviation="" NomPhysique="CHARTEDESCOMPTES" FicNullSupporte="0">
-    <INFOS_ETENDUES></INFOS_ETENDUES>
-    <RUBRIQUE Nom="Champ2">
-      <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>255</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="num">
-      <TYPE>7</TYPE>
-      <TYPE_CLE>2</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>8</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
       <INFOS_ETENDUES></INFOS_ETENDUES>
     </RUBRIQUE>
   </FICHIER>
@@ -402,7 +357,7 @@
     </RUBRIQUE>
     <RUBRIQUE Nom="Compte">
       <TYPE>5</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
+      <TYPE_CLE>2</TYPE_CLE>
       <SENS_PARCOURS>0</SENS_PARCOURS>
       <TAILLE>4</TAILLE>
       <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
@@ -442,7 +397,7 @@
     </RUBRIQUE>
     <RUBRIQUE Nom="type de charge">
       <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
+      <TYPE_CLE>2</TYPE_CLE>
       <SENS_PARCOURS>0</SENS_PARCOURS>
       <TAILLE>255</TAILLE>
       <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
@@ -488,6 +443,26 @@
       <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
       <INFOS_ETENDUES></INFOS_ETENDUES>
     </RUBRIQUE>
+    <RUBRIQUE Nom="OptimCleComp_Compt_Compt_DATE">
+      <TYPE_CLE>2</TYPE_CLE>
+      <COMPOSEE><COMPOSANTE Nom="CompteEncaisse"><SENS_PARCOURS>0</SENS_PARCOURS></COMPOSANTE><COMPOSANTE Nom="Compte"><SENS_PARCOURS>0</SENS_PARCOURS></COMPOSANTE><COMPOSANTE Nom="date"><SENS_PARCOURS>0</SENS_PARCOURS></COMPOSANTE></COMPOSEE>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="IDCompte">
+      <TYPE>5</TYPE>
+      <TYPE_CLE>2</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="IDcategCharge">
+      <TYPE>5</TYPE>
+      <TYPE_CLE>2</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
   </FICHIER>
   <FICHIER Nom="avanceClient" Abreviation="" NomPhysique="avanceClient" FicNullSupporte="0">
     <INFOS_ETENDUES></INFOS_ETENDUES>
@@ -525,7 +500,7 @@
     </RUBRIQUE>
     <RUBRIQUE Nom="Client">
       <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
+      <TYPE_CLE>2</TYPE_CLE>
       <SENS_PARCOURS>0</SENS_PARCOURS>
       <TAILLE>255</TAILLE>
       <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
@@ -584,6 +559,14 @@
       <TYPE_CLE>0</TYPE_CLE>
       <SENS_PARCOURS>0</SENS_PARCOURS>
       <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="IDcompte">
+      <TYPE>5</TYPE>
+      <TYPE_CLE>2</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
       <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
       <INFOS_ETENDUES></INFOS_ETENDUES>
     </RUBRIQUE>
@@ -663,124 +646,6 @@
       <INFOS_ETENDUES></INFOS_ETENDUES>
     </RUBRIQUE>
   </FICHIER>
-  <FICHIER Nom="Analyse" Abreviation="" NomPhysique="Analyse" FicNullSupporte="0">
-    <INFOS_ETENDUES></INFOS_ETENDUES>
-    <RUBRIQUE Nom="ref">
-      <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>255</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="colonne">
-      <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>255</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="texte">
-      <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>255</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="valeur">
-      <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>255</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="ordre">
-      <TYPE>5</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>4</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="N°">
-      <TYPE>38</TYPE>
-      <TYPE_CLE>1</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>4</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-  </FICHIER>
-  <FICHIER Nom="ResultatCharge" Abreviation="" NomPhysique="ResultatCharge" FicNullSupporte="0">
-    <INFOS_ETENDUES></INFOS_ETENDUES>
-    <RUBRIQUE Nom="RefAffichage">
-      <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>255</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="Ref">
-      <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>255</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="valeur">
-      <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>255</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="correspondance">
-      <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>255</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="ordre">
-      <TYPE>5</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>4</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="mois">
-      <TYPE>5</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>4</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="Activité d'exploitation">
-      <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>255</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="N°">
-      <TYPE>38</TYPE>
-      <TYPE_CLE>1</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>4</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-  </FICHIER>
   <FICHIER Nom="RemboursementDetteFournisseurIntrant" Abreviation="" NomPhysique="RemboursementDetteFournisseurIntrant" FicNullSupporte="0">
     <INFOS_ETENDUES></INFOS_ETENDUES>
     <RUBRIQUE Nom="reference">
@@ -833,7 +698,7 @@
     </RUBRIQUE>
     <RUBRIQUE Nom="Intrant">
       <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
+      <TYPE_CLE>2</TYPE_CLE>
       <SENS_PARCOURS>0</SENS_PARCOURS>
       <TAILLE>255</TAILLE>
       <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
@@ -861,6 +726,14 @@
       <SENS_PARCOURS>0</SENS_PARCOURS>
       <TAILLE>4</TAILLE>
       <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Id">
+      <TYPE>5</TYPE>
+      <TYPE_CLE>2</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
       <INFOS_ETENDUES></INFOS_ETENDUES>
     </RUBRIQUE>
   </FICHIER>
@@ -1000,6 +873,14 @@
       <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
       <INFOS_ETENDUES></INFOS_ETENDUES>
     </RUBRIQUE>
+    <RUBRIQUE Nom="IDcompte">
+      <TYPE>5</TYPE>
+      <TYPE_CLE>2</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
   </FICHIER>
   <FICHIER Nom="Marchandise_paye_produit_expedié_confirmé" Abreviation="" NomPhysique="Marchandise_paye_produit_expedié_confirmé" FicNullSupporte="0">
     <INFOS_ETENDUES></INFOS_ETENDUES>
@@ -1045,7 +926,7 @@
     </RUBRIQUE>
     <RUBRIQUE Nom="periode">
       <TYPE>5</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
+      <TYPE_CLE>2</TYPE_CLE>
       <SENS_PARCOURS>0</SENS_PARCOURS>
       <TAILLE>4</TAILLE>
       <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
@@ -1053,7 +934,7 @@
     </RUBRIQUE>
     <RUBRIQUE Nom="entite">
       <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
+      <TYPE_CLE>2</TYPE_CLE>
       <SENS_PARCOURS>0</SENS_PARCOURS>
       <TAILLE>255</TAILLE>
       <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
@@ -1195,6 +1076,14 @@
       <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
       <INFOS_ETENDUES></INFOS_ETENDUES>
     </RUBRIQUE>
+    <RUBRIQUE Nom="IdProd">
+      <TYPE>5</TYPE>
+      <TYPE_CLE>2</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
   </FICHIER>
   <FICHIER Nom="Magasin" Abreviation="" NomPhysique="Magasin" FicNullSupporte="0">
     <INFOS_ETENDUES></INFOS_ETENDUES>
@@ -1283,7 +1172,7 @@
     </RUBRIQUE>
     <RUBRIQUE Nom="Entité">
       <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
+      <TYPE_CLE>2</TYPE_CLE>
       <SENS_PARCOURS>0</SENS_PARCOURS>
       <TAILLE>255</TAILLE>
       <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
@@ -1369,6 +1258,14 @@
       <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
       <INFOS_ETENDUES></INFOS_ETENDUES>
     </RUBRIQUE>
+    <RUBRIQUE Nom="IdProduit">
+      <TYPE>5</TYPE>
+      <TYPE_CLE>2</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
   </FICHIER>
   <FICHIER Nom="Intrant" Abreviation="" NomPhysique="Intrant" FicNullSupporte="0">
     <INFOS_ETENDUES></INFOS_ETENDUES>
@@ -1414,7 +1311,7 @@
     </RUBRIQUE>
     <RUBRIQUE Nom="Nom">
       <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
+      <TYPE_CLE>2</TYPE_CLE>
       <SENS_PARCOURS>0</SENS_PARCOURS>
       <TAILLE>255</TAILLE>
       <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
@@ -1580,7 +1477,7 @@
     </RUBRIQUE>
     <RUBRIQUE Nom="Nom de l'Entité">
       <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
+      <TYPE_CLE>2</TYPE_CLE>
       <SENS_PARCOURS>0</SENS_PARCOURS>
       <TAILLE>255</TAILLE>
       <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
@@ -1671,7 +1568,7 @@
     </RUBRIQUE>
     <RUBRIQUE Nom="Fournisseur">
       <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
+      <TYPE_CLE>2</TYPE_CLE>
       <SENS_PARCOURS>0</SENS_PARCOURS>
       <TAILLE>255</TAILLE>
       <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
@@ -1717,12 +1614,20 @@
       <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
       <INFOS_ETENDUES></INFOS_ETENDUES>
     </RUBRIQUE>
+    <RUBRIQUE Nom="IdProduitIntrant">
+      <TYPE>5</TYPE>
+      <TYPE_CLE>2</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
   </FICHIER>
   <FICHIER Nom="encaissementDivers" Abreviation="" NomPhysique="encaissementDivers" FicNullSupporte="0">
     <INFOS_ETENDUES></INFOS_ETENDUES>
     <RUBRIQUE Nom="Reference">
       <TYPE>2</TYPE>
-      <TYPE_CLE>2</TYPE_CLE>
+      <TYPE_CLE>1</TYPE_CLE>
       <SENS_PARCOURS>0</SENS_PARCOURS>
       <TAILLE>255</TAILLE>
       <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
@@ -1987,6 +1892,14 @@
       <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
       <INFOS_ETENDUES></INFOS_ETENDUES>
     </RUBRIQUE>
+    <RUBRIQUE Nom="Idcompte">
+      <TYPE>5</TYPE>
+      <TYPE_CLE>2</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
   </FICHIER>
   <FICHIER Nom="Dettes" Abreviation="" NomPhysique="Dettes" FicNullSupporte="0">
     <INFOS_ETENDUES></INFOS_ETENDUES>
@@ -2008,7 +1921,7 @@
     </RUBRIQUE>
     <RUBRIQUE Nom="FluxEntrant">
       <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
+      <TYPE_CLE>2</TYPE_CLE>
       <SENS_PARCOURS>0</SENS_PARCOURS>
       <TAILLE>255</TAILLE>
       <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
@@ -2086,6 +1999,22 @@
       <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
       <INFOS_ETENDUES></INFOS_ETENDUES>
     </RUBRIQUE>
+    <RUBRIQUE Nom="ID">
+      <TYPE>5</TYPE>
+      <TYPE_CLE>2</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="IdCompte">
+      <TYPE>5</TYPE>
+      <TYPE_CLE>2</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
   </FICHIER>
   <FICHIER Nom="DetteClient" Abreviation="" NomPhysique="DetteClient" FicNullSupporte="0">
     <INFOS_ETENDUES></INFOS_ETENDUES>
@@ -2115,7 +2044,7 @@
     </RUBRIQUE>
     <RUBRIQUE Nom="Client">
       <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
+      <TYPE_CLE>2</TYPE_CLE>
       <SENS_PARCOURS>0</SENS_PARCOURS>
       <TAILLE>255</TAILLE>
       <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
@@ -2159,6 +2088,14 @@
       <SENS_PARCOURS>0</SENS_PARCOURS>
       <TAILLE>4</TAILLE>
       <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Id_flux">
+      <TYPE>5</TYPE>
+      <TYPE_CLE>2</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
       <INFOS_ETENDUES></INFOS_ETENDUES>
     </RUBRIQUE>
   </FICHIER>
@@ -2315,65 +2252,6 @@
       <INFOS_ETENDUES></INFOS_ETENDUES>
     </RUBRIQUE>
   </FICHIER>
-  <FICHIER Nom="ActiviteCharge" Abreviation="" NomPhysique="ActiviteCharge" FicNullSupporte="1">
-    <INFOS_ETENDUES></INFOS_ETENDUES>
-    <RUBRIQUE Nom="reference">
-      <TYPE>39</TYPE>
-      <TYPE_CLE>1</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>255</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="activite">
-      <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>255</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="type">
-      <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>255</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="CompteEncaisse">
-      <TYPE>2</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>50</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="periode">
-      <TYPE>5</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>4</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="Montant">
-      <TYPE>17</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>10</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="ordre">
-      <TYPE>5</TYPE>
-      <TYPE_CLE>1</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>4</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-  </FICHIER>
   <FICHIER Nom="TransactionMagasin" Abreviation="" NomPhysique="TransactionMagasin" FicNullSupporte="0">
     <INFOS_ETENDUES></INFOS_ETENDUES>
     <RUBRIQUE Nom="IDTransactionMagasin">
@@ -2440,6 +2318,22 @@
       <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
       <INFOS_ETENDUES></INFOS_ETENDUES>
     </RUBRIQUE>
+    <RUBRIQUE Nom="ReferenceEntreProduit">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>2</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>50</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="ReferenceSortieProduit">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>2</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>50</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
   </FICHIER>
   <FICHIER Nom="Utilisateur" Abreviation="" NomPhysique="Utilisateur" FicNullSupporte="0">
     <INFOS_ETENDUES></INFOS_ETENDUES>
@@ -2497,33 +2391,6 @@
       <SENS_PARCOURS>0</SENS_PARCOURS>
       <TAILLE>1</TAILLE>
       <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-  </FICHIER>
-  <FICHIER Nom="Activite" Abreviation="" NomPhysique="Activite" FicNullSupporte="1">
-    <INFOS_ETENDUES></INFOS_ETENDUES>
-    <RUBRIQUE Nom="reference">
-      <TYPE>39</TYPE>
-      <TYPE_CLE>1</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>255</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="activite">
-      <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>255</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="type">
-      <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>255</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
       <INFOS_ETENDUES></INFOS_ETENDUES>
     </RUBRIQUE>
   </FICHIER>
@@ -2609,91 +2476,9 @@
       <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
       <INFOS_ETENDUES></INFOS_ETENDUES>
     </RUBRIQUE>
-  </FICHIER>
-  <FICHIER Nom="StockDepartProduitMagasin" Abreviation="" NomPhysique="StockDepartProduitMagasin" FicNullSupporte="0">
-    <INFOS_ETENDUES></INFOS_ETENDUES>
-    <RUBRIQUE Nom="Produit">
-      <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>255</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="StockDepart">
-      <TYPE>5</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>4</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="magasin">
-      <TYPE>2</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>50</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-  </FICHIER>
-  <FICHIER Nom="stock_produit" Abreviation="" NomPhysique="stock_produit" FicNullSupporte="0">
-    <INFOS_ETENDUES></INFOS_ETENDUES>
-    <RUBRIQUE Nom="provenance">
-      <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>255</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="produit">
-      <TYPE>5</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>4</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="magasin">
-      <TYPE>5</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>4</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="quantite">
-      <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>255</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="periode">
-      <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>255</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="grade">
-      <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>255</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="N°">
-      <TYPE>38</TYPE>
-      <TYPE_CLE>1</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>4</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
+    <RUBRIQUE Nom="OptimCleComp_Mois__magas">
+      <TYPE_CLE>2</TYPE_CLE>
+      <COMPOSEE><COMPOSANTE Nom="Mois_Periode"><SENS_PARCOURS>0</SENS_PARCOURS></COMPOSANTE><COMPOSANTE Nom="magasin"><SENS_PARCOURS>0</SENS_PARCOURS></COMPOSANTE></COMPOSEE>
     </RUBRIQUE>
   </FICHIER>
   <FICHIER Nom="Sortis_intrant" Abreviation="" NomPhysique="Sortis_intrant" FicNullSupporte="0">
@@ -2810,68 +2595,9 @@
       <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
       <INFOS_ETENDUES></INFOS_ETENDUES>
     </RUBRIQUE>
-  </FICHIER>
-  <FICHIER Nom="resultatGenerale" Abreviation="" NomPhysique="resultatGenerale" FicNullSupporte="0">
-    <INFOS_ETENDUES></INFOS_ETENDUES>
-    <RUBRIQUE Nom="CharteCompte">
-      <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>255</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="CompteEncaisse">
-      <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>255</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="correspondance">
-      <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>255</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="Transaction">
-      <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>255</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="Periode">
+    <RUBRIQUE Nom="IdrodIntrant">
       <TYPE>5</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>4</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="montant">
-      <TYPE>17</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>10</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="type">
-      <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
-      <SENS_PARCOURS>0</SENS_PARCOURS>
-      <TAILLE>255</TAILLE>
-      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
-      <INFOS_ETENDUES></INFOS_ETENDUES>
-    </RUBRIQUE>
-    <RUBRIQUE Nom="N°">
-      <TYPE>38</TYPE>
-      <TYPE_CLE>1</TYPE_CLE>
+      <TYPE_CLE>2</TYPE_CLE>
       <SENS_PARCOURS>0</SENS_PARCOURS>
       <TAILLE>4</TAILLE>
       <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
@@ -2890,7 +2616,7 @@
     </RUBRIQUE>
     <RUBRIQUE Nom="Reference">
       <TYPE>2</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
+      <TYPE_CLE>2</TYPE_CLE>
       <SENS_PARCOURS>0</SENS_PARCOURS>
       <TAILLE>255</TAILLE>
       <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
@@ -3035,6 +2761,14 @@
       <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
       <INFOS_ETENDUES></INFOS_ETENDUES>
     </RUBRIQUE>
+    <RUBRIQUE Nom="codeCateg">
+      <TYPE>5</TYPE>
+      <TYPE_CLE>1</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
   </FICHIER>
   <FICHIER Nom="transactionsMagasinIntrant" Abreviation="" NomPhysique="transactionsMagasinIntrant" FicNullSupporte="0">
     <INFOS_ETENDUES></INFOS_ETENDUES>
@@ -3086,6 +2820,22 @@
       <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
       <INFOS_ETENDUES></INFOS_ETENDUES>
     </RUBRIQUE>
+    <RUBRIQUE Nom="ReferenceEntrantIntrant">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>2</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>50</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="ReferenceSortisIntrant">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>2</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>50</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
   </FICHIER>
   <FICHIER Nom="Partsociale" Abreviation="" NomPhysique="Partsociale" FicNullSupporte="0">
     <INFOS_ETENDUES></INFOS_ETENDUES>
@@ -3099,7 +2849,7 @@
     </RUBRIQUE>
     <RUBRIQUE Nom="Reference">
       <TYPE>39</TYPE>
-      <TYPE_CLE>2</TYPE_CLE>
+      <TYPE_CLE>1</TYPE_CLE>
       <SENS_PARCOURS>0</SENS_PARCOURS>
       <TAILLE>50</TAILLE>
       <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
@@ -3107,7 +2857,7 @@
     </RUBRIQUE>
     <RUBRIQUE Nom="fournisseur">
       <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
+      <TYPE_CLE>2</TYPE_CLE>
       <SENS_PARCOURS>0</SENS_PARCOURS>
       <TAILLE>255</TAILLE>
       <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
@@ -3161,6 +2911,14 @@
       <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
       <INFOS_ETENDUES></INFOS_ETENDUES>
     </RUBRIQUE>
+    <RUBRIQUE Nom="ID">
+      <TYPE>5</TYPE>
+      <TYPE_CLE>2</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
   </FICHIER>
   <FICHIER Nom="RemboursementDetteFournisseurde_produit" Abreviation="" NomPhysique="RemboursementDetteFournisseurde_produit" FicNullSupporte="0">
     <INFOS_ETENDUES></INFOS_ETENDUES>
@@ -3206,7 +2964,7 @@
     </RUBRIQUE>
     <RUBRIQUE Nom="fournisseur">
       <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
+      <TYPE_CLE>2</TYPE_CLE>
       <SENS_PARCOURS>0</SENS_PARCOURS>
       <TAILLE>255</TAILLE>
       <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
@@ -3242,6 +3000,14 @@
       <SENS_PARCOURS>0</SENS_PARCOURS>
       <TAILLE>4</TAILLE>
       <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="ID">
+      <TYPE>5</TYPE>
+      <TYPE_CLE>2</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
       <INFOS_ETENDUES></INFOS_ETENDUES>
     </RUBRIQUE>
   </FICHIER>
@@ -3288,6 +3054,49 @@
       <INFOS_ETENDUES></INFOS_ETENDUES>
     </RUBRIQUE>
   </FICHIER>
+  <FICHIER Nom="TransactionCompteCompensation" Abreviation="" NomPhysique="TransactionCompteCompensation" FicNullSupporte="1">
+    <INFOS_ETENDUES></INFOS_ETENDUES>
+    <RUBRIQUE Nom="IDTransactionCompteCompensation">
+      <TYPE>38</TYPE>
+      <TYPE_CLE>1</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>4</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Description">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>255</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Montant">
+      <TYPE>17</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>10</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur="0"></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="dateTransaction">
+      <TYPE>14</TYPE>
+      <TYPE_CLE>0</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>8</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+    <RUBRIQUE Nom="Reference">
+      <TYPE>39</TYPE>
+      <TYPE_CLE>2</TYPE_CLE>
+      <SENS_PARCOURS>0</SENS_PARCOURS>
+      <TAILLE>50</TAILLE>
+      <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>
+      <INFOS_ETENDUES></INFOS_ETENDUES>
+    </RUBRIQUE>
+  </FICHIER>
   <FICHIER Nom="Charge" Abreviation="" NomPhysique="Charge" FicNullSupporte="1">
     <INFOS_ETENDUES></INFOS_ETENDUES>
     <RUBRIQUE Nom="ID">
@@ -3324,7 +3133,7 @@
     </RUBRIQUE>
     <RUBRIQUE Nom="reference">
       <TYPE>39</TYPE>
-      <TYPE_CLE>0</TYPE_CLE>
+      <TYPE_CLE>2</TYPE_CLE>
       <SENS_PARCOURS>0</SENS_PARCOURS>
       <TAILLE>255</TAILLE>
       <INDICERUBRIQUE Indice="0" Null="0" Valeur=""></INDICERUBRIQUE>

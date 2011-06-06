@@ -1,4 +1,0 @@
-//MO038-039.TXT ANA00038 TO ANA00039
-Dettes		TAR	3177	nouvelle taille enregistrement : 3177
-Dettes	IdCompte	RUB+		IdCompte est une nouvelle clé
-Compte		NWL	Compte (ID) et Dettes (IdCompte)	Nouvelle liaison entre les fichiers Compte (ID) et Dettes (IdCompte)

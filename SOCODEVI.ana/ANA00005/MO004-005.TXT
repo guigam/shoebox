@@ -1,3 +1,0 @@
-//MO004-005.TXT ANA00004 TO ANA00005
-avanceClient	Client	CLEN*		la rubrique Client est maintenant une clé
-DetteClient	Client	CLEN*		la rubrique Client est maintenant une clé

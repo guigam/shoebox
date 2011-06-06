@@ -1,5 +1,0 @@
-//MO003-004.TXT ANA00003 TO ANA00004
-RemboursementDetteFournisseurIntrant	Intrant	CLEN*		la rubrique Intrant est maintenant une clé
-Dettes	FluxEntrant	CLEN*		la rubrique FluxEntrant est maintenant une clé
-Partsociale	fournisseur	CLEN*		la rubrique fournisseur est maintenant une clé
-RemboursementDetteFournisseurde_produit	fournisseur	CLEN*		la rubrique fournisseur est maintenant une clé

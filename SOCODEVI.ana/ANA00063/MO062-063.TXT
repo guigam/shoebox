@@ -1,2 +1,0 @@
-//MO062-063.TXT ANA00062 TO ANA00063
-Marchandise_paye_produit_expedié_confirmé		NWL	Marchandise_paye_produit_expedié_confirmé (reference) et detail_vente (Reference)	Nouvelle liaison entre les fichiers Marchandise_paye_produit_expedié_confirmé (reference) et detail_vente (Reference)

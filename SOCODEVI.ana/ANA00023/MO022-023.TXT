@@ -1,3 +1,0 @@
-//MO022-023.TXT ANA00022 TO ANA00023
-Marchandise_paye_produit_expedié_confirmé		TAR	2903	nouvelle taille enregistrement : 2903
-Marchandise_paye_produit_expedié_confirmé	total2	CNW	Entier sur 4 octets$Chaîne	la rubrique total2 a pour nouveau type Entier sur 4 octets

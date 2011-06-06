@@ -1,2 +1,0 @@
-//MO008-009.TXT ANA00008 TO ANA00009
-charge_transaction	OptimCleComp_Compt_Compt_DATE	RUB+		OptimCleComp_Compt_Compt_DATE est une nouvelle clé

@@ -1,2 +1,0 @@
-//MO017-018.TXT ANA00017 TO ANA00018
-charge_transaction	type de charge	CLEN*		la rubrique type de charge est maintenant une clé

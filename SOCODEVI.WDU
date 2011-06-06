@@ -184,6 +184,7 @@ REQ_Reqhistopaiementencaiss.WDR
 FEN_Indicateur.wdw
 REQ_comboProduit.WDR
 REQ_StockSortisProduit.WDR
+..\..\Mes documents\socodevi_anc\Sauvegarde\REQ_SoldeIntrant.bkR
 REQ_Indicateur1.WDR
 FEN_parametrage.wdw
 BG_ACTIVVISTA.GIF
@@ -235,8 +236,6 @@ FEN_avanceClient.wdw
 ETAT_Etat2.wde
 FicheSortisIntrant.wdw
 menu.wdw
-..\LOGO 25 ANS SHOEBOX.JPG
-..\SHOEBOX.JPG
 80 SALAMENDER0106.PNG
 ADMINISTRATION.PNG
 ARGENT12.PNG

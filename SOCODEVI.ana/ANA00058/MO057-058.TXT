@@ -1,3 +1,0 @@
-//MO057-058.TXT ANA00057 TO ANA00058
-TransactionCompteCompensation		TAR	650	nouvelle taille enregistrement : 650
-TransactionCompteCompensation	Reference	RUB+		Reference est une nouvelle clé
